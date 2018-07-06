@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "942504194333",
+    "firebase_url": "https://rooted-d243e.firebaseio.com",
+    "project_id": "rooted-d243e",
+    "storage_bucket": "rooted-d243e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942504194333:android:04aea9e6dad489e1",
+        "android_client_info": {
+          "package_name": "com.chrisgaddes.rooted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942504194333-ojbireuvl1d58h87bjo5gvj5sdhnhu4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqDax2uK7rdlDVANgKfm3sl_S4kro42w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
